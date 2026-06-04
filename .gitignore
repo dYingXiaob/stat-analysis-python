@@ -1,2 +1,33 @@
+# Logs
+logs/
+
+# Config
+config/
+
+# Cache
+cache/
+
+# Temp
+tmp/
+
+# Build
+build/
+
+# Deploy
+deploy/
+
+# Node Modules
+node_modules/
+
+# Dependencies
+bower_components/
+
+# IDE
+.idea/
+.vscode/
+
 # Data
 data/
+
+# Analysis results
+results/
